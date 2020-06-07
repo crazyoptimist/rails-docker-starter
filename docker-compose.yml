@@ -1,0 +1,5 @@
+version: "3"
+services: 
+  rails:
+    container_name: rails_dev
+    build: .
