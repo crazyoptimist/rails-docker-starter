@@ -6,7 +6,7 @@
 docker-compose build
 ```
 
-Now you have an awesome and smart image named `rails-docker-starter_rails:latest`, you can specify ruby version and node version in Dockerfile as per your need. <br>
+Now you have an awesome and smart image named `rails-docker-starter_rails:latest`, you can specify ruby version and node version in Dockerfile according to your need. <br>
 
 All you need to do is <br>
 

@@ -1,4 +1,4 @@
-FROM ruby:2.6.3
+FROM ruby:2.7
 
 RUN curl -sL https://deb.nodesource.com/setup_12.x | bash - \
     && apt install -y nodejs \
