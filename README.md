@@ -18,4 +18,6 @@ rails new your-project-name
 
 That's it. There you go. 😎 <br>
 
+Here is more detailed [medium article](https://medium.com/@crazyoptimist/how-to-develop-rails-application-using-docker-a-present-for-rubyists-from-a-docker-fan-with-love-343b386a5528), just in case.
+
 Happy coding rubyists!
